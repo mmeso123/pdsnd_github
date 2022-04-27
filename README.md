@@ -11,5 +11,5 @@ In this project, you will make use of Python to explore data related to bike sha
 chicago.csv, washington.csv, new_york_city.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+https://www.coursera.org/learn/data-analysis-with-python/home/welcome
 
