@@ -8,7 +8,7 @@ CITY_DATA = { 'chicago': 'chicago.csv',
 
 def get_filters():
     """
-    Asks user to specify a city, month, and day to analyze.
+    Asks user to specify a variable in city, month, and day to analyze.
 
     Returns:
         (str) city - name of the city to analyze
@@ -60,7 +60,7 @@ def time_stats(df):
     # display the most common start hour
 
 
-    print("\nThis took %s seconds." % (time.time() - initial_start_time))
+    print("\nThis took %s seconds." % (time.time() - intial_start_time))
     print('-'*40)
 
 
